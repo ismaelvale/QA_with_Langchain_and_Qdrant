@@ -1,5 +1,3 @@
-Project Overview
-
 # NLP Embedding Dataset for Robust Algorithm Development
 
  This repository serves as a culmination of knowledge, leveraging the OpenAI Cookbook tutorial, to fortify and refine natural language processing (NLP) and text analysis functions. Additionally, it exemplifies the strategic utilization of Docker containerization for streamlined deployment and management of project-related services.
